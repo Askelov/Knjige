@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="pozadina">#585858</color>
+    <color name="siva">#d9d9d9</color>
+    <color name="blagasiva">#f2f2f2</color>
+    <color name="bijela">#ffffff</color>
+    <color name="darker">#7e7e7e</color>
+
+
+</resources>
