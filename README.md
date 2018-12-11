@@ -7,8 +7,8 @@ Aplikacija ima zadatak korisnik vodi evidenciju knjiga, da ih dodaje online prek
 #### FUNKCIONALNOSTI
 - pocetni meni
  
-  <img src="/Screenshots/1.jpg" width="250"/>
+  <img src="/Screenshots/1.jpg" width="200"/>
   
 - rucno dodavanje knjige
  
-  <img src="/Screenshots/2.jpg" width="250"/>
+  <img src="/Screenshots/2.jpg" width="200"/>
