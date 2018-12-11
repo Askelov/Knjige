@@ -12,3 +12,12 @@ Aplikacija ima zadatak korisnik vodi evidenciju knjiga, da ih dodaje online prek
 - rucno dodavanje knjige
  
   <img src="/Screenshots/2.jpg" width="200"/>
+ 
+- dodavanje knjige pretrazivanjem preko googleovog API-a 
+ 
+  <img src="/Screenshots/3.jpg" width="200"/>
+  
+- svaka kategorija prikazuje sve knjige koje su te kategorije, te ih je moguce preporucit
+ 
+  <img src="/Screenshots/4.jpg" width="200"/>
+
